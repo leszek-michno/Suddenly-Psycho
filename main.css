@@ -1,0 +1,66 @@
+.bodyOne {
+    background-color: black;
+    text-align: center;
+}
+.bodyAboutUs {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+.bodyRadio {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+.imgOne {
+    border-radius: 100px;
+}
+.auPhotoOne {
+    width: 200px;
+    float: left;
+    margin: 0 30px 0 20px;
+    border-radius: 10px;
+    /*transform: rotate(-10deg);*/
+    filter: saturate(100%);
+    filter: contrast(120%);
+
+}
+.auPhotoTwo {
+    width: 250px;
+    float: left;
+    margin: 0 30px 0 20px;
+    border-radius: 10px;
+}
+
+
+.auFirst {
+    margin: 100px 200px 100px 200px;
+    background-color: black;
+
+}
+.auPar {
+    margin: 10px 150px 0 0;
+    font-size: 20px;
+    line-height: 200%;
+}
+
+h1 {
+    margin-left: 200px;
+}
+.radio {
+    margin-left: 550px;
+}
+li {
+    font-size: 20px;
+    line-height: 200%;
+}
+
+
+.forAMoment {
+    font-size: 150px;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+    color: darkred;
+}

@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    margin: 20px 200px 50px 200px;
+
+}
+.item {
+    font-size: 20px;
+    font-family: Ubuntu;
+    text-transform: uppercase;
+    /*color: lightyellow;*/
+    color: purple;
+    border: solid 3px white;
+    border-radius: 20px;
+    padding: 5px 20px 5px 20px;
+    background-color: white;
+
+
+
+}

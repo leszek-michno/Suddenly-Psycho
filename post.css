@@ -1,0 +1,22 @@
+/*.posters {*/
+
+/*}*/
+.postTwo {
+    position: absolute;
+    top: 200px;
+    right:100px;
+    z-index: 1;
+}
+.postOne {
+    position: absolute;
+    top: 500px;
+    right: 350px;
+    transform: rotate(30deg);
+}
+.postThree {
+    position: absolute;
+    top:480px;
+    right: 650px;
+    transform: rotate(-20deg);
+}
+
